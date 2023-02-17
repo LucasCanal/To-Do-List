@@ -1,0 +1,15 @@
+@media screen and (max-width: 900px){
+
+    body {
+        background-size: 350%;
+        background-repeat: no-repeat;
+        background-position: center;
+
+    }
+
+    .todo-container {
+        max-width: 350px;
+        margin-top: 18rem;
+    }
+}
+
